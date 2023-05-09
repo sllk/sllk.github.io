@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 闪烁之狐
+title: sllk
 subtitle: 闪烁之狐
 description: 从来没有真正的绝境，只有心灵的迷途
 keywords: 闪烁之狐, Blinkfox
@@ -104,7 +104,7 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/blinkfox/blinkfox.github.io.git
+  repo: https://github.com/sllk/sllk.github.io.git
 
 search:
   path: search.xml
